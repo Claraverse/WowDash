@@ -190,7 +190,7 @@ const StudentProgressOne = () => {
                 className='w-40-px h-40-px radius-8 flex-shrink-0 me-12 overflow-hidden'
               />
               <div className='flex-grow-1'>
-                <h6 className='text-md mb-0 fw-medium'>Jacob Jones</h6>
+                <h6 className='text-md mb-0 fw-medium'>Dravya Bansal</h6>
                 <span className='text-sm text-secondary-light fw-medium'>
                   UI/UX Design Course
                 </span>

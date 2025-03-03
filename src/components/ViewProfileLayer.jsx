@@ -44,9 +44,9 @@ const ViewProfileLayer = () => {
                 alt=''
                 className='border br-white border-width-2-px w-200-px h-200-px rounded-circle object-fit-cover'
               />
-              <h6 className='mb-0 mt-16'>Jacob Jones</h6>
+              <h6 className='mb-0 mt-16'>Dravya Bansal</h6>
               <span className='text-secondary-light mb-16'>
-                ifrandom@gmail.com
+                dravyafolio@gmail.com
               </span>
             </div>
             <div className='mt-24'>
@@ -57,7 +57,7 @@ const ViewProfileLayer = () => {
                     Full Name
                   </span>
                   <span className='w-70 text-secondary-light fw-medium'>
-                    : Will Jonto
+                    :dravyafolio
                   </span>
                 </li>
                 <li className='d-flex align-items-center gap-1 mb-12'>
@@ -66,7 +66,7 @@ const ViewProfileLayer = () => {
                     Email
                   </span>
                   <span className='w-70 text-secondary-light fw-medium'>
-                    : willjontoax@gmail.com
+                    : dravyafolio@gmail.com
                   </span>
                 </li>
                 <li className='d-flex align-items-center gap-1 mb-12'>

@@ -461,7 +461,7 @@ const InvoiceListLayer = () => {
                     className='flex-shrink-0 me-12 radius-8'
                   />
                   <h6 className='text-md mb-0 fw-medium flex-grow-1'>
-                    Jacob Jones
+                    Dravya Bansal
                   </h6>
                 </div>
               </td>

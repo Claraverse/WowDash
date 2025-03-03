@@ -1218,7 +1218,7 @@ const MasterLayout = ({ children }) => {
                   >
                     <img
                       src='assets/images/lang-flag.png'
-                      alt='Wowdash'
+                      alt='claraverse'
                       className='w-24 h-24 object-fit-cover rounded-circle'
                     />
                   </button>
@@ -1770,7 +1770,7 @@ const MasterLayout = ({ children }) => {
                     <div className='py-12 px-16 radius-8 bg-primary-50 mb-16 d-flex align-items-center justify-content-between gap-2'>
                       <div>
                         <h6 className='text-lg text-primary-light fw-semibold mb-2'>
-                          Shaidul Islam
+                          Dravya Bansal
                         </h6>
                         <span className='text-secondary-light fw-medium text-sm'>
                           Admin
@@ -1845,12 +1845,12 @@ const MasterLayout = ({ children }) => {
         <footer className='d-footer'>
           <div className='row align-items-center justify-content-between'>
             <div className='col-auto'>
-              <p className='mb-0'>© 2025 WowDash. All Rights Reserved.</p>
+              <p className='mb-0'>© 2025 claraverse. All Rights Reserved.</p>
             </div>
             <div className='col-auto'>
-              <p className='mb-0'>
-                Made by <span className='text-primary-600'>wowtheme7</span>
-              </p>
+              <a href="https://linkedin.com/company/claraverse" target="_blank" className='mb-0'>
+                Made by <span className='text-primary-600'>Claraverse</span>
+              </a>
             </div>
           </div>
         </footer>

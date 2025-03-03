@@ -91,9 +91,9 @@ const UsersGridLayer = () => {
                   alt=''
                   className='border br-white border-width-2-px w-100-px h-100-px rounded-circle object-fit-cover'
                 />
-                <h6 className='text-lg mb-0 mt-4'>Jacob Jones</h6>
+                <h6 className='text-lg mb-0 mt-4'>Dravya Bansal</h6>
                 <span className='text-secondary-light mb-16'>
-                  ifrandom@gmail.com
+                  dravyafolio@gmail.com
                 </span>
                 <div className='center-border position-relative bg-danger-gradient-light radius-8 p-12 d-flex align-items-center gap-4'>
                   <div className='text-center w-50'>
@@ -165,7 +165,7 @@ const UsersGridLayer = () => {
                 />
                 <h6 className='text-lg mb-0 mt-4'>Darrell Steward</h6>
                 <span className='text-secondary-light mb-16'>
-                  ifrandom@gmail.com
+                  dravyafolio@gmail.com
                 </span>
                 <div className='center-border position-relative bg-danger-gradient-light radius-8 p-12 d-flex align-items-center gap-4'>
                   <div className='text-center w-50'>
@@ -237,7 +237,7 @@ const UsersGridLayer = () => {
                 />
                 <h6 className='text-lg mb-0 mt-4'>Jerome Bell</h6>
                 <span className='text-secondary-light mb-16'>
-                  ifrandom@gmail.com
+                  dravyafolio@gmail.com
                 </span>
                 <div className='center-border position-relative bg-danger-gradient-light radius-8 p-12 d-flex align-items-center gap-4'>
                   <div className='text-center w-50'>
@@ -309,7 +309,7 @@ const UsersGridLayer = () => {
                 />
                 <h6 className='text-lg mb-0 mt-4'>Eleanor Pena</h6>
                 <span className='text-secondary-light mb-16'>
-                  ifrandom@gmail.com
+                  dravyafolio@gmail.com
                 </span>
                 <div className='center-border position-relative bg-danger-gradient-light radius-8 p-12 d-flex align-items-center gap-4'>
                   <div className='text-center w-50'>
@@ -381,7 +381,7 @@ const UsersGridLayer = () => {
                 />
                 <h6 className='text-lg mb-0 mt-4'>Ralph Edwards</h6>
                 <span className='text-secondary-light mb-16'>
-                  ifrandom@gmail.com
+                  dravyafolio@gmail.com
                 </span>
                 <div className='center-border position-relative bg-danger-gradient-light radius-8 p-12 d-flex align-items-center gap-4'>
                   <div className='text-center w-50'>
@@ -453,7 +453,7 @@ const UsersGridLayer = () => {
                 />
                 <h6 className='text-lg mb-0 mt-4'>Annette Black</h6>
                 <span className='text-secondary-light mb-16'>
-                  ifrandom@gmail.com
+                  dravyafolio@gmail.com
                 </span>
                 <div className='center-border position-relative bg-danger-gradient-light radius-8 p-12 d-flex align-items-center gap-4'>
                   <div className='text-center w-50'>
@@ -525,7 +525,7 @@ const UsersGridLayer = () => {
                 />
                 <h6 className='text-lg mb-0 mt-4'>Robert Fox</h6>
                 <span className='text-secondary-light mb-16'>
-                  ifrandom@gmail.com
+                  dravyafolio@gmail.com
                 </span>
                 <div className='center-border position-relative bg-danger-gradient-light radius-8 p-12 d-flex align-items-center gap-4'>
                   <div className='text-center w-50'>
@@ -597,7 +597,7 @@ const UsersGridLayer = () => {
                 />
                 <h6 className='text-lg mb-0 mt-4'>Albert Flores</h6>
                 <span className='text-secondary-light mb-16'>
-                  ifrandom@gmail.com
+                  dravyafolio@gmail.com
                 </span>
                 <div className='center-border position-relative bg-danger-gradient-light radius-8 p-12 d-flex align-items-center gap-4'>
                   <div className='text-center w-50'>
@@ -669,7 +669,7 @@ const UsersGridLayer = () => {
                 />
                 <h6 className='text-lg mb-0 mt-4'>Dianne Russell</h6>
                 <span className='text-secondary-light mb-16'>
-                  ifrandom@gmail.com
+                  dravyafolio@gmail.com
                 </span>
                 <div className='center-border position-relative bg-danger-gradient-light radius-8 p-12 d-flex align-items-center gap-4'>
                   <div className='text-center w-50'>
@@ -741,7 +741,7 @@ const UsersGridLayer = () => {
                 />
                 <h6 className='text-lg mb-0 mt-4'>Esther Howard</h6>
                 <span className='text-secondary-light mb-16'>
-                  ifrandom@gmail.com
+                  dravyafolio@gmail.com
                 </span>
                 <div className='center-border position-relative bg-danger-gradient-light radius-8 p-12 d-flex align-items-center gap-4'>
                   <div className='text-center w-50'>
@@ -813,7 +813,7 @@ const UsersGridLayer = () => {
                 />
                 <h6 className='text-lg mb-0 mt-4'>Marvin McKinney</h6>
                 <span className='text-secondary-light mb-16'>
-                  ifrandom@gmail.com
+                  dravyafolio@gmail.com
                 </span>
                 <div className='center-border position-relative bg-danger-gradient-light radius-8 p-12 d-flex align-items-center gap-4'>
                   <div className='text-center w-50'>
@@ -885,7 +885,7 @@ const UsersGridLayer = () => {
                 />
                 <h6 className='text-lg mb-0 mt-4'>Guy Hawkins</h6>
                 <span className='text-secondary-light mb-16'>
-                  ifrandom@gmail.com
+                  dravyafolio@gmail.com
                 </span>
                 <div className='center-border position-relative bg-danger-gradient-light radius-8 p-12 d-flex align-items-center gap-4'>
                   <div className='text-center w-50'>
